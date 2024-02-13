@@ -25,3 +25,4 @@ if(statut && age){
  }else{
      console.log("now")
  }
+ 
